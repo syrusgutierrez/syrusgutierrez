@@ -5,6 +5,8 @@ I am a Registered Electrical Engineer and I’m transitioning into data analytic
 
 I build hands-on projects to strengthen my skills in analysis, dashboard creation, and data storytelling.
 
+My goal is to become a full-time data analyst specializing in data cleaning, dashboarding, and turning messy data into clear insights.
+
 ---
 
 ## 📁 Featured Project
