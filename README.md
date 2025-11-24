@@ -1,9 +1,9 @@
 # Hi, I’m Syrus   
 ### Aspiring Data Analyst
 
-I’m transitioning into data analytics after completing the Eskwelabs Data Analytics Bootcamp.  
+I am a Registered Electrical Engineer and I’m transitioning into data analytics after completing the Eskwelabs Data Analytics Bootcamp.
 
-I build hands-on projects to strengthen my skills in analytics, dashboard creation, and data storytelling.
+I build hands-on projects to strengthen my skills in analysis, dashboard creation, and data storytelling.
 
 ---
 
