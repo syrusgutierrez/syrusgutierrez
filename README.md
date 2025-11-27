@@ -12,7 +12,7 @@ My goal is to become a full-time data analyst specializing in data cleaning, das
 ## 📁 Featured Project
 **PH Energy Dashboard (2003–2023)**  
 Interactive Power BI dashboard analyzing long-term energy trends.  
-[Repository](https://github.com/syrusgutierrez/ph-energy-dashboard) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDI1YjE2MmUtM2FkNC00YzRlLWJhMzgtNmM1NTM3ZjE3YjA3IiwidCI6IjUyZGE4ZmY4LWZlZDktNDZjNC04YjlmLWI1ODU4OTJhMTQ0NiIsImMiOjEwfQ%3D%3D) | [Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vSMuDTqxs-qmBe1THsObyC2muMvghiRe2vnaqgbT_44PpVm5BAyV1gwmN8jxNFwgYd0XbFXJM2zB5Ct/pub?start=false&loop=false&delayms=60000)
+[Repository](https://github.com/syrusgutierrez/ph-energy-dashboard) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzYwNzQzNWItZjZmMC00MWYyLWFlMjQtN2Y1ZGNjNTQwMGYxIiwidCI6IjUyZGE4ZmY4LWZlZDktNDZjNC04YjlmLWI1ODU4OTJhMTQ0NiIsImMiOjEwfQ%3D%3D) | [Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vSMuDTqxs-qmBe1THsObyC2muMvghiRe2vnaqgbT_44PpVm5BAyV1gwmN8jxNFwgYd0XbFXJM2zB5Ct/pub?start=false&loop=false&delayms=60000)
 
 ---
 
