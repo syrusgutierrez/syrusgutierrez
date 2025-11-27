@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="header.png">
+</p>
+
+
 # Hi, I’m Syrus   
 ### Aspiring Data Analyst | Registered Electrical Engineer
 
