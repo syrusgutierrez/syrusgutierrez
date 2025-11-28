@@ -3,8 +3,7 @@
 </p>
 
 
-# Hi, I’m Syrus   
-### Aspiring Data Analyst | Registered Electrical Engineer
+# Hi, I’m Syrus  
 
 I’m transitioning into data analytics after completing the Eskwelabs Data Analytics Bootcamp, where I developed strong foundations in data cleaning, analysis, and visualization. I build hands-on projects to strengthen my skills and turn raw data into clear, actionable insights.
 
